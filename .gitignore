@@ -22,3 +22,14 @@ logs/
 
 # T4 symlink (external drive - don't commit contents)
 # Note: The T4 symlink itself can be committed, but not its contents
+
+# Research data (large datasets, papers, filings)
+research/
+
+# Vaults (project designs on T4)
+vaults/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
