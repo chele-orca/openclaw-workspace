@@ -1,0 +1,1966 @@
+{
+  "metadata": {
+    "company": "EQT Corp",
+    "ticker": "EQT",
+    "cik": "0000033213",
+    "sic": "1311",
+    "sicDescription": "Crude Petroleum & Natural Gas",
+    "ein": "250464690",
+    "stateOfIncorporation": "PA",
+    "fiscalYearEnd": "1231",
+    "query_date": "2026-02-13",
+    "date_range": {
+      "start": "2023-12-26",
+      "end": "2026-02-13"
+    },
+    "total_filings": 278
+  },
+  "filings": [
+    {
+      "filingDate": "2026-02-10",
+      "form": "SCHEDULE 13G/A",
+      "accessionNumber": "0000902219-26-000064",
+      "primaryDocument": "xslSCHEDULE_13G_X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2026-02-09",
+      "form": "8-K",
+      "accessionNumber": "0001104659-26-011726",
+      "primaryDocument": "tm265368d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2026-01-29",
+      "form": "8-K",
+      "accessionNumber": "0000033213-26-000005",
+      "primaryDocument": "eqt-20260129.htm",
+      "primaryDocDescription": "8-K"
+    },
+    {
+      "filingDate": "2026-01-05",
+      "form": "4",
+      "accessionNumber": "0001597380-26-000002",
+      "primaryDocument": "xslF345X05/form4-01052026_040101.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2026-01-05",
+      "form": "4",
+      "accessionNumber": "0001883394-26-000002",
+      "primaryDocument": "xslF345X05/form4-01052026_040101.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-12-19",
+      "form": "8-K",
+      "accessionNumber": "0001104659-25-123150",
+      "primaryDocument": "tm2533739d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2025-12-16",
+      "form": "S-8",
+      "accessionNumber": "0001104659-25-121590",
+      "primaryDocument": "tm2533086d1_s8.htm",
+      "primaryDocDescription": "FORM S-8"
+    },
+    {
+      "filingDate": "2025-12-12",
+      "form": "424B7",
+      "accessionNumber": "0001104659-25-120661",
+      "primaryDocument": "tm2533354d1_424b7.htm",
+      "primaryDocDescription": "424B7"
+    },
+    {
+      "filingDate": "2025-11-12",
+      "form": "4",
+      "accessionNumber": "0001597171-25-000005",
+      "primaryDocument": "xslF345X05/form4-11122025_041101.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-11-12",
+      "form": "144",
+      "accessionNumber": "0001959173-25-006910",
+      "primaryDocument": "xsl144X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-10-29",
+      "form": "4",
+      "accessionNumber": "0002041211-25-000004",
+      "primaryDocument": "xslF345X05/form4-10292025_041001.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-10-28",
+      "form": "144",
+      "accessionNumber": "0001959173-25-006584",
+      "primaryDocument": "xsl144X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-10-22",
+      "form": "10-Q",
+      "accessionNumber": "0000033213-25-000049",
+      "primaryDocument": "eqt-20250930.htm",
+      "primaryDocDescription": "10-Q"
+    },
+    {
+      "filingDate": "2025-10-21",
+      "form": "8-K",
+      "accessionNumber": "0000033213-25-000047",
+      "primaryDocument": "eqt-20251021.htm",
+      "primaryDocDescription": "8-K"
+    },
+    {
+      "filingDate": "2025-10-20",
+      "form": "8-K",
+      "accessionNumber": "0001104659-25-100584",
+      "primaryDocument": "tm2528911d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2025-10-14",
+      "form": "8-K",
+      "accessionNumber": "0000033213-25-000040",
+      "primaryDocument": "eqt-20251014.htm",
+      "primaryDocDescription": "8-K"
+    },
+    {
+      "filingDate": "2025-10-01",
+      "form": "4",
+      "accessionNumber": "0001597380-25-000005",
+      "primaryDocument": "xslF345X05/form4-10022025_121027.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-10-01",
+      "form": "4",
+      "accessionNumber": "0001883394-25-000005",
+      "primaryDocument": "xslF345X05/form4-10022025_121049.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-09-10",
+      "form": "S-3ASR",
+      "accessionNumber": "0001104659-25-089074",
+      "primaryDocument": "tm2525615-1_s3asr.htm",
+      "primaryDocDescription": "S-3ASR"
+    },
+    {
+      "filingDate": "2025-08-27",
+      "form": "8-K",
+      "accessionNumber": "0001104659-25-083362",
+      "primaryDocument": "tm2524385d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2025-08-19",
+      "form": "424B7",
+      "accessionNumber": "0001104659-25-080258",
+      "primaryDocument": "tm2523829d1_424b7.htm",
+      "primaryDocDescription": "424B7"
+    },
+    {
+      "filingDate": "2025-08-14",
+      "form": "SCHEDULE 13G/A",
+      "accessionNumber": "0000080255-25-000564",
+      "primaryDocument": "xslSCHEDULE_13G_X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-08-08",
+      "form": "424B3",
+      "accessionNumber": "0001104659-25-075373",
+      "primaryDocument": "tm2521363-3_424b3.htm",
+      "primaryDocDescription": "424B3"
+    },
+    {
+      "filingDate": "2025-08-07",
+      "form": "EFFECT",
+      "accessionNumber": "9999999995-25-002520",
+      "primaryDocument": "xslEFFECTX01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-08-07",
+      "form": "4",
+      "accessionNumber": "0001415889-25-021276",
+      "primaryDocument": "xslF345X05/form4-08072025_080825.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-08-06",
+      "form": "144",
+      "accessionNumber": "0001959173-25-004972",
+      "primaryDocument": "xsl144X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-08-05",
+      "form": "CORRESP",
+      "accessionNumber": "0001104659-25-074193",
+      "primaryDocument": "filename1.htm",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-07-31",
+      "form": "UPLOAD",
+      "accessionNumber": "0000000000-25-008066",
+      "primaryDocument": "filename1.pdf",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-07-29",
+      "form": "SCHEDULE 13G/A",
+      "accessionNumber": "0000932471-25-000865",
+      "primaryDocument": "xslSCHEDULE_13G_X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-07-28",
+      "form": "4",
+      "accessionNumber": "0001415889-25-020382",
+      "primaryDocument": "xslF345X05/form4-07282025_080713.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-07-28",
+      "form": "4",
+      "accessionNumber": "0001415889-25-020380",
+      "primaryDocument": "xslF345X05/form4-07282025_080727.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-07-28",
+      "form": "4",
+      "accessionNumber": "0001415889-25-020377",
+      "primaryDocument": "xslF345X05/form4-07282025_080742.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-07-25",
+      "form": "S-4",
+      "accessionNumber": "0001104659-25-070845",
+      "primaryDocument": "tm2521363-1_s4.htm",
+      "primaryDocDescription": "S-4"
+    },
+    {
+      "filingDate": "2025-07-25",
+      "form": "144",
+      "accessionNumber": "0001959173-25-004751",
+      "primaryDocument": "xsl144X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-07-23",
+      "form": "10-Q",
+      "accessionNumber": "0000033213-25-000033",
+      "primaryDocument": "eqt-20250630.htm",
+      "primaryDocDescription": "10-Q"
+    },
+    {
+      "filingDate": "2025-07-22",
+      "form": "8-K",
+      "accessionNumber": "0000033213-25-000030",
+      "primaryDocument": "eqt-20250722.htm",
+      "primaryDocDescription": "8-K"
+    },
+    {
+      "filingDate": "2025-07-17",
+      "form": "SCHEDULE 13G/A",
+      "accessionNumber": "0002052113-25-003022",
+      "primaryDocument": "xslSCHEDULE_13G_X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-07-16",
+      "form": "8-K",
+      "accessionNumber": "0001104659-25-068368",
+      "primaryDocument": "tm2520925d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2025-07-10",
+      "form": "8-K",
+      "accessionNumber": "0000033213-25-000026",
+      "primaryDocument": "eqt-20250710.htm",
+      "primaryDocDescription": "8-K"
+    },
+    {
+      "filingDate": "2025-07-02",
+      "form": "4",
+      "accessionNumber": "0001415889-25-019039",
+      "primaryDocument": "xslF345X05/form4-07022025_080747.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-07-02",
+      "form": "4",
+      "accessionNumber": "0001415889-25-019035",
+      "primaryDocument": "xslF345X05/form4-07022025_080728.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-07-02",
+      "form": "S-3ASR",
+      "accessionNumber": "0001104659-25-064835",
+      "primaryDocument": "tm2519501-1_s3asr.htm",
+      "primaryDocDescription": "S-3ASR"
+    },
+    {
+      "filingDate": "2025-07-01",
+      "form": "8-K",
+      "accessionNumber": "0001104659-25-064813",
+      "primaryDocument": "tm2519501d3_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2025-06-04",
+      "form": "8-K",
+      "accessionNumber": "0001104659-25-056399",
+      "primaryDocument": "tm2517096d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2025-05-23",
+      "form": "SD",
+      "accessionNumber": "0001410578-25-001376",
+      "primaryDocument": "tmb-20241231xsd.htm",
+      "primaryDocDescription": "SD"
+    },
+    {
+      "filingDate": "2025-05-14",
+      "form": "SCHEDULE 13G/A",
+      "accessionNumber": "0000080255-25-000343",
+      "primaryDocument": "xslSCHEDULE_13G_X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-05-13",
+      "form": "SCHEDULE 13G",
+      "accessionNumber": "0000093751-25-000262",
+      "primaryDocument": "xslSCHEDULE_13G_X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-05-12",
+      "form": "SCHEDULE 13G/A",
+      "accessionNumber": "0000902219-25-000178",
+      "primaryDocument": "xslSCHEDULE_13G_X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-04-30",
+      "form": "4",
+      "accessionNumber": "0001415889-25-011573",
+      "primaryDocument": "xslF345X05/form4-04302025_080429.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-04-28",
+      "form": "144",
+      "accessionNumber": "0001959173-25-002725",
+      "primaryDocument": "xsl144X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-04-23",
+      "form": "10-Q",
+      "accessionNumber": "0000033213-25-000023",
+      "primaryDocument": "eqt-20250331.htm",
+      "primaryDocDescription": "10-Q"
+    },
+    {
+      "filingDate": "2025-04-22",
+      "form": "8-K",
+      "accessionNumber": "0001104659-25-037502",
+      "primaryDocument": "tm2512833d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2025-04-22",
+      "form": "8-K",
+      "accessionNumber": "0000033213-25-000021",
+      "primaryDocument": "eqt-20250422.htm",
+      "primaryDocDescription": "8-K"
+    },
+    {
+      "filingDate": "2025-04-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-011029",
+      "primaryDocument": "xslF345X05/form4-04182025_080421.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-04-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-011027",
+      "primaryDocument": "xslF345X05/form4-04182025_080444.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-04-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-011025",
+      "primaryDocument": "xslF345X05/form4-04182025_080439.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-04-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-011023",
+      "primaryDocument": "xslF345X05/form4-04182025_080429.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-04-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-011021",
+      "primaryDocument": "xslF345X05/form4-04182025_080438.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-04-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-011019",
+      "primaryDocument": "xslF345X05/form4-04182025_080409.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-04-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-011017",
+      "primaryDocument": "xslF345X05/form4-04182025_080457.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-04-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-011015",
+      "primaryDocument": "xslF345X05/form4-04182025_080448.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-04-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-011013",
+      "primaryDocument": "xslF345X05/form4-04182025_080406.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-04-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-011011",
+      "primaryDocument": "xslF345X05/form4-04182025_080458.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-04-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-011009",
+      "primaryDocument": "xslF345X05/form4-04182025_080459.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-04-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-011007",
+      "primaryDocument": "xslF345X05/form4-04182025_080456.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-04-17",
+      "form": "8-K",
+      "accessionNumber": "0001104659-25-036013",
+      "primaryDocument": "tm2511980d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2025-04-16",
+      "form": "8-K",
+      "accessionNumber": "0001104659-25-035558",
+      "primaryDocument": "tm2512382d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2025-04-10",
+      "form": "8-K",
+      "accessionNumber": "0000033213-25-000014",
+      "primaryDocument": "eqt-20250410.htm",
+      "primaryDocDescription": "8-K"
+    },
+    {
+      "filingDate": "2025-04-03",
+      "form": "8-K",
+      "accessionNumber": "0001104659-25-031684",
+      "primaryDocument": "tm2511277d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2025-04-02",
+      "form": "4",
+      "accessionNumber": "0001415889-25-009645",
+      "primaryDocument": "xslF345X05/form4-04022025_080401.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-04-02",
+      "form": "4",
+      "accessionNumber": "0001415889-25-009640",
+      "primaryDocument": "xslF345X05/form4-04022025_080431.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-03-31",
+      "form": "8-K",
+      "accessionNumber": "0001104659-25-029581",
+      "primaryDocument": "tm2510822d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2025-03-24",
+      "form": "8-K",
+      "accessionNumber": "0001104659-25-026836",
+      "primaryDocument": "tm2510078d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2025-03-18",
+      "form": "8-K",
+      "accessionNumber": "0001104659-25-025066",
+      "primaryDocument": "tm259133d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2025-03-12",
+      "form": "4",
+      "accessionNumber": "0001415889-25-007795",
+      "primaryDocument": "xslF345X05/form4-03122025_080325.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-03-11",
+      "form": "144",
+      "accessionNumber": "0001968582-25-000179",
+      "primaryDocument": "xsl144X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-03-10",
+      "form": "8-K",
+      "accessionNumber": "0001104659-25-022169",
+      "primaryDocument": "tm258689d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2025-03-06",
+      "form": "4",
+      "accessionNumber": "0001415889-25-007212",
+      "primaryDocument": "xslF345X05/form4-03062025_090320.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-03-06",
+      "form": "4",
+      "accessionNumber": "0001415889-25-007210",
+      "primaryDocument": "xslF345X05/form4-03062025_090308.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-03-06",
+      "form": "4",
+      "accessionNumber": "0001415889-25-007208",
+      "primaryDocument": "xslF345X05/form4-03062025_090303.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-03-06",
+      "form": "4",
+      "accessionNumber": "0001415889-25-007206",
+      "primaryDocument": "xslF345X05/form4-03062025_090340.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-03-06",
+      "form": "4",
+      "accessionNumber": "0001415889-25-007202",
+      "primaryDocument": "xslF345X05/form4-03062025_090339.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-03-06",
+      "form": "4",
+      "accessionNumber": "0001415889-25-007199",
+      "primaryDocument": "xslF345X05/form4-03062025_090320.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-03-06",
+      "form": "4",
+      "accessionNumber": "0001415889-25-007195",
+      "primaryDocument": "xslF345X05/form4-03062025_090313.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-03-06",
+      "form": "4",
+      "accessionNumber": "0001415889-25-007193",
+      "primaryDocument": "xslF345X05/form4-03062025_090303.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-03-06",
+      "form": "4",
+      "accessionNumber": "0001415889-25-007190",
+      "primaryDocument": "xslF345X05/form4-03062025_090309.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-03-03",
+      "form": "ARS",
+      "accessionNumber": "0001104659-25-019416",
+      "primaryDocument": "tm257246d2_ars.pdf",
+      "primaryDocDescription": "ARS"
+    },
+    {
+      "filingDate": "2025-03-03",
+      "form": "DEFA14A",
+      "accessionNumber": "0001104659-25-019410",
+      "primaryDocument": "tm252296d5_defa14a.htm",
+      "primaryDocDescription": "DEFA14A"
+    },
+    {
+      "filingDate": "2025-03-03",
+      "form": "DEF 14A",
+      "accessionNumber": "0001104659-25-019408",
+      "primaryDocument": "tm252296d4_def14a.htm",
+      "primaryDocDescription": "FORM DEF 14A"
+    },
+    {
+      "filingDate": "2025-02-24",
+      "form": "8-K",
+      "accessionNumber": "0001104659-25-016499",
+      "primaryDocument": "tm257363d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2025-02-20",
+      "form": "4",
+      "accessionNumber": "0001415889-25-004880",
+      "primaryDocument": "xslF345X05/form4-02202025_090210.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-20",
+      "form": "4",
+      "accessionNumber": "0001415889-25-004877",
+      "primaryDocument": "xslF345X05/form4-02202025_090208.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-20",
+      "form": "4",
+      "accessionNumber": "0001415889-25-004875",
+      "primaryDocument": "xslF345X05/form4-02202025_090209.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-20",
+      "form": "4",
+      "accessionNumber": "0001415889-25-004873",
+      "primaryDocument": "xslF345X05/form4-02202025_090201.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-20",
+      "form": "4",
+      "accessionNumber": "0001415889-25-004871",
+      "primaryDocument": "xslF345X05/form4-02202025_090231.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-20",
+      "form": "4",
+      "accessionNumber": "0001415889-25-004869",
+      "primaryDocument": "xslF345X05/form4-02202025_090215.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-20",
+      "form": "4",
+      "accessionNumber": "0001415889-25-004866",
+      "primaryDocument": "xslF345X05/form4-02202025_090244.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-20",
+      "form": "4",
+      "accessionNumber": "0001415889-25-004862",
+      "primaryDocument": "xslF345X05/form4-02202025_090231.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-20",
+      "form": "4",
+      "accessionNumber": "0001415889-25-004856",
+      "primaryDocument": "xslF345X05/form4-02202025_090211.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-19",
+      "form": "PRE 14A",
+      "accessionNumber": "0001104659-25-015188",
+      "primaryDocument": "tm252296d2_pre14a.htm",
+      "primaryDocDescription": "FORM PRE 14A"
+    },
+    {
+      "filingDate": "2025-02-19",
+      "form": "10-K",
+      "accessionNumber": "0000033213-25-000011",
+      "primaryDocument": "eqt-20241231.htm",
+      "primaryDocDescription": "10-K"
+    },
+    {
+      "filingDate": "2025-02-18",
+      "form": "8-K",
+      "accessionNumber": "0000033213-25-000008",
+      "primaryDocument": "eqt-20250218.htm",
+      "primaryDocDescription": "8-K"
+    },
+    {
+      "filingDate": "2025-02-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-004429",
+      "primaryDocument": "xslF345X05/form4-02182025_090243.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-004425",
+      "primaryDocument": "xslF345X05/form4-02182025_090206.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-004422",
+      "primaryDocument": "xslF345X05/form4-02182025_090252.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-004420",
+      "primaryDocument": "xslF345X05/form4-02182025_090229.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-004414",
+      "primaryDocument": "xslF345X05/form4-02182025_090203.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-004412",
+      "primaryDocument": "xslF345X05/form4-02182025_090250.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-004405",
+      "primaryDocument": "xslF345X05/form4-02182025_090214.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-004402",
+      "primaryDocument": "xslF345X05/form4-02182025_090202.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-18",
+      "form": "4",
+      "accessionNumber": "0001415889-25-004400",
+      "primaryDocument": "xslF345X05/form4-02182025_090200.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-14",
+      "form": "SCHEDULE 13G/A",
+      "accessionNumber": "0000080255-25-000172",
+      "primaryDocument": "xslSCHEDULE_13G_X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-12",
+      "form": "8-K",
+      "accessionNumber": "0001104659-25-012181",
+      "primaryDocument": "tm256103d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2025-02-10",
+      "form": "SCHEDULE 13G/A",
+      "accessionNumber": "0000902219-25-000052",
+      "primaryDocument": "xslSCHEDULE_13G_X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-06",
+      "form": "4",
+      "accessionNumber": "0001415889-25-003302",
+      "primaryDocument": "xslF345X05/form4-02072025_010215.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-06",
+      "form": "4",
+      "accessionNumber": "0001415889-25-003253",
+      "primaryDocument": "xslF345X05/form4-02062025_090250.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-06",
+      "form": "4",
+      "accessionNumber": "0001415889-25-003249",
+      "primaryDocument": "xslF345X05/form4-02062025_090204.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-06",
+      "form": "4",
+      "accessionNumber": "0001415889-25-003246",
+      "primaryDocument": "xslF345X05/form4-02062025_090238.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-06",
+      "form": "4",
+      "accessionNumber": "0001415889-25-003244",
+      "primaryDocument": "xslF345X05/form4-02062025_090232.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-06",
+      "form": "4",
+      "accessionNumber": "0001415889-25-003242",
+      "primaryDocument": "xslF345X05/form4-02062025_090206.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-06",
+      "form": "4",
+      "accessionNumber": "0001415889-25-003240",
+      "primaryDocument": "xslF345X05/form4-02062025_090240.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-06",
+      "form": "4",
+      "accessionNumber": "0001415889-25-003238",
+      "primaryDocument": "xslF345X05/form4-02062025_090252.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-06",
+      "form": "4",
+      "accessionNumber": "0001415889-25-003236",
+      "primaryDocument": "xslF345X05/form4-02062025_090255.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-02-06",
+      "form": "8-K",
+      "accessionNumber": "0001104659-25-010115",
+      "primaryDocument": "tm255583d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2025-01-30",
+      "form": "8-K",
+      "accessionNumber": "0000033213-25-000002",
+      "primaryDocument": "eqt-20250130.htm",
+      "primaryDocDescription": "8-K"
+    },
+    {
+      "filingDate": "2025-01-03",
+      "form": "4",
+      "accessionNumber": "0001415889-25-000422",
+      "primaryDocument": "xslF345X05/form4-01032025_090106.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-01-03",
+      "form": "4",
+      "accessionNumber": "0001415889-25-000417",
+      "primaryDocument": "xslF345X05/form4-01032025_090138.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2025-01-03",
+      "form": "4",
+      "accessionNumber": "0001415889-25-000412",
+      "primaryDocument": "xslF345X05/form4-01032025_090125.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-12-31",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-132856",
+      "primaryDocument": "tm2432179d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-12-18",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-129764",
+      "primaryDocument": "tm2431242d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-12-10",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-126982",
+      "primaryDocument": "tm2430577d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-12-06",
+      "form": "4",
+      "accessionNumber": "0001415889-24-028472",
+      "primaryDocument": "xslF345X05/form4-12062024_091222.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-12-05",
+      "form": "4",
+      "accessionNumber": "0001415889-24-028395",
+      "primaryDocument": "xslF345X05/form4-12052024_091235.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-12-03",
+      "form": "144",
+      "accessionNumber": "0001968582-24-001097",
+      "primaryDocument": "xsl144X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-12-03",
+      "form": "4",
+      "accessionNumber": "0001415889-24-028077",
+      "primaryDocument": "xslF345X05/form4-12032024_091255.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-12-03",
+      "form": "144",
+      "accessionNumber": "0001104659-24-124973",
+      "primaryDocument": "xsl144X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-12-03",
+      "form": "144",
+      "accessionNumber": "0001104659-24-124972",
+      "primaryDocument": "xsl144X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-11-26",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-123080",
+      "primaryDocument": "tm2429194d2_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-11-25",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-122342",
+      "primaryDocument": "tm2429194d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-11-14",
+      "form": "SC 13G/A",
+      "accessionNumber": "0000080255-24-001363",
+      "primaryDocument": "eqt13gasep24.txt",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-11-08",
+      "form": "SC 13G/A",
+      "accessionNumber": "0000902219-24-000470",
+      "primaryDocument": "SEC13G_Filing.htm",
+      "primaryDocDescription": "SEC SCHEDULE 13G"
+    },
+    {
+      "filingDate": "2024-10-30",
+      "form": "10-Q",
+      "accessionNumber": "0000033213-24-000047",
+      "primaryDocument": "eqt-20240930.htm",
+      "primaryDocDescription": "10-Q"
+    },
+    {
+      "filingDate": "2024-10-29",
+      "form": "8-K",
+      "accessionNumber": "0000033213-24-000042",
+      "primaryDocument": "eqt-20241029.htm",
+      "primaryDocDescription": "8-K"
+    },
+    {
+      "filingDate": "2024-10-17",
+      "form": "8-K",
+      "accessionNumber": "0000033213-24-000035",
+      "primaryDocument": "eqt-20241017.htm",
+      "primaryDocDescription": "8-K"
+    },
+    {
+      "filingDate": "2024-10-15",
+      "form": "3",
+      "accessionNumber": "0001415889-24-025120",
+      "primaryDocument": "xslF345X02/form3-10152024_081045.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-10-15",
+      "form": "3",
+      "accessionNumber": "0001415889-24-025117",
+      "primaryDocument": "xslF345X02/form3-10152024_081053.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-10-15",
+      "form": "3",
+      "accessionNumber": "0001415889-24-025115",
+      "primaryDocument": "xslF345X02/form3-10152024_081027.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-10-09",
+      "form": "SC 13G/A",
+      "accessionNumber": "0001193125-24-235271",
+      "primaryDocument": "d879327dsc13ga.htm",
+      "primaryDocDescription": "SC 13G/A"
+    },
+    {
+      "filingDate": "2024-10-01",
+      "form": "4",
+      "accessionNumber": "0001415889-24-024189",
+      "primaryDocument": "xslF345X05/form4-10012024_081010.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-10-01",
+      "form": "4",
+      "accessionNumber": "0001415889-24-024187",
+      "primaryDocument": "xslF345X05/form4-10012024_081032.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-10-01",
+      "form": "4",
+      "accessionNumber": "0001415889-24-024185",
+      "primaryDocument": "xslF345X05/form4-10012024_081042.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-10-01",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-104934",
+      "primaryDocument": "tm2425237d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-09-25",
+      "form": "SD",
+      "accessionNumber": "0001104659-24-102782",
+      "primaryDocument": "tmb-20231231xsd.htm",
+      "primaryDocDescription": "FORM SD"
+    },
+    {
+      "filingDate": "2024-08-29",
+      "form": "4/A",
+      "accessionNumber": "0001104659-24-094990",
+      "primaryDocument": "xslF345X05/tm2422898-1_4aseq1.xml",
+      "primaryDocDescription": "OWNERSHIP DOCUMENT"
+    },
+    {
+      "filingDate": "2024-07-26",
+      "form": "4",
+      "accessionNumber": "0001415889-24-020162",
+      "primaryDocument": "xslF345X05/form4-07262024_080707.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-07-24",
+      "form": "4",
+      "accessionNumber": "0001415889-24-020045",
+      "primaryDocument": "xslF345X05/form4-07242024_080736.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-07-24",
+      "form": "4",
+      "accessionNumber": "0001104659-24-082349",
+      "primaryDocument": "xslF345X05/tm2420070-4_4seq1.xml",
+      "primaryDocDescription": "OWNERSHIP DOCUMENT"
+    },
+    {
+      "filingDate": "2024-07-24",
+      "form": "4",
+      "accessionNumber": "0001104659-24-082347",
+      "primaryDocument": "xslF345X05/tm2420070-3_4seq1.xml",
+      "primaryDocDescription": "OWNERSHIP DOCUMENT"
+    },
+    {
+      "filingDate": "2024-07-24",
+      "form": "4",
+      "accessionNumber": "0001104659-24-082343",
+      "primaryDocument": "xslF345X05/tm2420070-2_4seq1.xml",
+      "primaryDocDescription": "OWNERSHIP DOCUMENT"
+    },
+    {
+      "filingDate": "2024-07-24",
+      "form": "4",
+      "accessionNumber": "0001104659-24-082341",
+      "primaryDocument": "xslF345X05/tm2420070-1_4seq1.xml",
+      "primaryDocDescription": "OWNERSHIP DOCUMENT"
+    },
+    {
+      "filingDate": "2024-07-24",
+      "form": "10-Q",
+      "accessionNumber": "0000033213-24-000032",
+      "primaryDocument": "eqt-20240630.htm",
+      "primaryDocDescription": "10-Q"
+    },
+    {
+      "filingDate": "2024-07-24",
+      "form": "3",
+      "accessionNumber": "0001415889-24-020030",
+      "primaryDocument": "xslF345X02/form3-07242024_080732.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-07-24",
+      "form": "3",
+      "accessionNumber": "0001415889-24-020027",
+      "primaryDocument": "xslF345X02/form3-07242024_080724.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-07-24",
+      "form": "3",
+      "accessionNumber": "0001415889-24-020026",
+      "primaryDocument": "xslF345X02/form3-07242024_080704.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-07-23",
+      "form": "8-K",
+      "accessionNumber": "0000033213-24-000030",
+      "primaryDocument": "eqt-20240723.htm",
+      "primaryDocDescription": "8-K"
+    },
+    {
+      "filingDate": "2024-07-22",
+      "form": "S-8",
+      "accessionNumber": "0001104659-24-081540",
+      "primaryDocument": "tm2419870d1_s8.htm",
+      "primaryDocDescription": "FORM S-8"
+    },
+    {
+      "filingDate": "2024-07-22",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-081501",
+      "primaryDocument": "tm2419871d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-07-18",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-080846",
+      "primaryDocument": "tm2419695d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-07-11",
+      "form": "425",
+      "accessionNumber": "0001013762-24-000235",
+      "primaryDocument": "ea0209229-8k425_eqtcorp.htm",
+      "primaryDocDescription": "CURRENT REPORT"
+    },
+    {
+      "filingDate": "2024-07-11",
+      "form": "8-K",
+      "accessionNumber": "0001013762-24-000229",
+      "primaryDocument": "ea0209229-8k425_eqtcorp.htm",
+      "primaryDocDescription": "CURRENT REPORT"
+    },
+    {
+      "filingDate": "2024-07-11",
+      "form": "8-K",
+      "accessionNumber": "0000033213-24-000023",
+      "primaryDocument": "eqt-20240711.htm",
+      "primaryDocDescription": "8-K"
+    },
+    {
+      "filingDate": "2024-07-02",
+      "form": "4",
+      "accessionNumber": "0001415889-24-018883",
+      "primaryDocument": "xslF345X05/form4-07022024_080732.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-07-02",
+      "form": "4",
+      "accessionNumber": "0001415889-24-018877",
+      "primaryDocument": "xslF345X05/form4-07022024_080730.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-07-02",
+      "form": "4",
+      "accessionNumber": "0001415889-24-018870",
+      "primaryDocument": "xslF345X05/form4-07022024_080733.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-06-25",
+      "form": "425",
+      "accessionNumber": "0001104659-24-074764",
+      "primaryDocument": "tm2418151d2_425.htm",
+      "primaryDocDescription": "425"
+    },
+    {
+      "filingDate": "2024-06-25",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-074758",
+      "primaryDocument": "tm2418151d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-06-24",
+      "form": "425",
+      "accessionNumber": "0001213900-24-055258",
+      "primaryDocument": "ea020830701-425_eqtcorp.htm",
+      "primaryDocDescription": "FORM 425"
+    },
+    {
+      "filingDate": "2024-06-14",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-071766",
+      "primaryDocument": "tm2417247d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-06-13",
+      "form": "425",
+      "accessionNumber": "0001213900-24-052465",
+      "primaryDocument": "ea0207814-425_eqtcorp.htm",
+      "primaryDocDescription": "FORM 425"
+    },
+    {
+      "filingDate": "2024-06-05",
+      "form": "424B3",
+      "accessionNumber": "0001104659-24-068723",
+      "primaryDocument": "tm2413659-10_424b3.htm",
+      "primaryDocDescription": "424B3"
+    },
+    {
+      "filingDate": "2024-06-04",
+      "form": "EFFECT",
+      "accessionNumber": "9999999995-24-001739",
+      "primaryDocument": "xslEFFECTX01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-05-31",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-067251",
+      "primaryDocument": "tm2413659d8_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-05-31",
+      "form": "CORRESP",
+      "accessionNumber": "0001104659-24-067228",
+      "primaryDocument": "filename1.htm",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-05-31",
+      "form": "S-4/A",
+      "accessionNumber": "0001104659-24-067169",
+      "primaryDocument": "tm2413659-4_s4a.htm",
+      "primaryDocDescription": "S-4/A"
+    },
+    {
+      "filingDate": "2024-05-30",
+      "form": "4",
+      "accessionNumber": "0001415889-24-014890",
+      "primaryDocument": "xslF345X05/form4-05302024_080538.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-05-30",
+      "form": "4",
+      "accessionNumber": "0001415889-24-014886",
+      "primaryDocument": "xslF345X05/form4-05302024_080557.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-05-29",
+      "form": "144",
+      "accessionNumber": "0001959173-24-003966",
+      "primaryDocument": "xsl144X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-05-28",
+      "form": "144",
+      "accessionNumber": "0001000275-24-000041",
+      "primaryDocument": "xsl144X01/primary_doc.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-05-28",
+      "form": "UPLOAD",
+      "accessionNumber": "0000000000-24-006123",
+      "primaryDocument": "filename1.pdf",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-05-23",
+      "form": "425",
+      "accessionNumber": "0001104659-24-064504",
+      "primaryDocument": "tm2413659d6_425.htm",
+      "primaryDocDescription": "425"
+    },
+    {
+      "filingDate": "2024-05-23",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-064502",
+      "primaryDocument": "tm2413659d5_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-05-17",
+      "form": "S-4",
+      "accessionNumber": "0001104659-24-063011",
+      "primaryDocument": "tm2413659-1_s4.htm",
+      "primaryDocDescription": "S-4"
+    },
+    {
+      "filingDate": "2024-05-16",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-062560",
+      "primaryDocument": "tm2413891d2_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-05-10",
+      "form": "SD",
+      "accessionNumber": "0001104659-24-059920",
+      "primaryDocument": "tm2413746d1_sd.htm",
+      "primaryDocDescription": "SD"
+    },
+    {
+      "filingDate": "2024-05-06",
+      "form": "SC 13G",
+      "accessionNumber": "0000902219-24-000300",
+      "primaryDocument": "SEC13G_Filing.htm",
+      "primaryDocDescription": "SEC SCHEDULE 13G"
+    },
+    {
+      "filingDate": "2024-04-24",
+      "form": "425",
+      "accessionNumber": "0001213900-24-035837",
+      "primaryDocument": "ea0204602-425_eqtcorp.htm",
+      "primaryDocDescription": "FORM 425"
+    },
+    {
+      "filingDate": "2024-04-24",
+      "form": "10-Q",
+      "accessionNumber": "0000033213-24-000021",
+      "primaryDocument": "eqt-20240331.htm",
+      "primaryDocDescription": "10-Q"
+    },
+    {
+      "filingDate": "2024-04-23",
+      "form": "425",
+      "accessionNumber": "0001213900-24-035409",
+      "primaryDocument": "ea0204498-425_eqtcorp.htm",
+      "primaryDocDescription": "FORM 425"
+    },
+    {
+      "filingDate": "2024-04-23",
+      "form": "425",
+      "accessionNumber": "0000033213-24-000019",
+      "primaryDocument": "eqt33120248k.htm",
+      "primaryDocDescription": "425"
+    },
+    {
+      "filingDate": "2024-04-23",
+      "form": "8-K",
+      "accessionNumber": "0000033213-24-000018",
+      "primaryDocument": "eqt-20240423.htm",
+      "primaryDocDescription": "8-K"
+    },
+    {
+      "filingDate": "2024-04-19",
+      "form": "4",
+      "accessionNumber": "0001415889-24-011239",
+      "primaryDocument": "xslF345X05/form4-04192024_080436.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-04-19",
+      "form": "4",
+      "accessionNumber": "0001415889-24-011237",
+      "primaryDocument": "xslF345X05/form4-04192024_080414.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-04-19",
+      "form": "4",
+      "accessionNumber": "0001415889-24-011235",
+      "primaryDocument": "xslF345X05/form4-04192024_080436.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-04-19",
+      "form": "4",
+      "accessionNumber": "0001415889-24-011231",
+      "primaryDocument": "xslF345X05/form4-04192024_080442.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-04-19",
+      "form": "4",
+      "accessionNumber": "0001415889-24-011229",
+      "primaryDocument": "xslF345X05/form4-04192024_080427.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-04-19",
+      "form": "4",
+      "accessionNumber": "0001415889-24-011227",
+      "primaryDocument": "xslF345X05/form4-04192024_080439.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-04-19",
+      "form": "4",
+      "accessionNumber": "0001415889-24-011224",
+      "primaryDocument": "xslF345X05/form4-04192024_080427.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-04-19",
+      "form": "4",
+      "accessionNumber": "0001415889-24-011222",
+      "primaryDocument": "xslF345X05/form4-04192024_080411.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-04-19",
+      "form": "4",
+      "accessionNumber": "0001415889-24-011220",
+      "primaryDocument": "xslF345X05/form4-04192024_080411.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-04-19",
+      "form": "4",
+      "accessionNumber": "0001415889-24-011217",
+      "primaryDocument": "xslF345X05/form4-04192024_080434.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-04-19",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-049048",
+      "primaryDocument": "tm2412210d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-04-15",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-046999",
+      "primaryDocument": "tm2411451d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-04-11",
+      "form": "8-K",
+      "accessionNumber": "0000033213-24-000011",
+      "primaryDocument": "eqt-20240411.htm",
+      "primaryDocDescription": "8-K"
+    },
+    {
+      "filingDate": "2024-04-09",
+      "form": "425",
+      "accessionNumber": "0001213900-24-031335",
+      "primaryDocument": "ea0203511-425_eqtcorp.htm",
+      "primaryDocDescription": "FORM 425"
+    },
+    {
+      "filingDate": "2024-04-02",
+      "form": "4",
+      "accessionNumber": "0001415889-24-009764",
+      "primaryDocument": "xslF345X05/form4-04022024_080406.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-04-02",
+      "form": "4",
+      "accessionNumber": "0001415889-24-009761",
+      "primaryDocument": "xslF345X05/form4-04022024_080449.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-04-02",
+      "form": "4",
+      "accessionNumber": "0001415889-24-009758",
+      "primaryDocument": "xslF345X05/form4-04022024_080423.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-03-27",
+      "form": "425",
+      "accessionNumber": "0001213900-24-026190",
+      "primaryDocument": "ea0202642-425_eqtcorp.htm",
+      "primaryDocDescription": "FORM 425"
+    },
+    {
+      "filingDate": "2024-03-22",
+      "form": "425",
+      "accessionNumber": "0001213900-24-024922",
+      "primaryDocument": "ea0202355-425_eqtcorp.htm",
+      "primaryDocDescription": "FORM 425"
+    },
+    {
+      "filingDate": "2024-03-19",
+      "form": "425",
+      "accessionNumber": "0001213900-24-024063",
+      "primaryDocument": "ea0202133-425_eqtcorp.htm",
+      "primaryDocDescription": "FORM 425"
+    },
+    {
+      "filingDate": "2024-03-15",
+      "form": "425",
+      "accessionNumber": "0001213900-24-023098",
+      "primaryDocument": "ea0201927-425_eqtcorp.htm",
+      "primaryDocDescription": "FORM 425"
+    },
+    {
+      "filingDate": "2024-03-14",
+      "form": "425",
+      "accessionNumber": "0001213900-24-022644",
+      "primaryDocument": "ea0201830-425_eqtcorp.htm",
+      "primaryDocDescription": "FORM 425"
+    },
+    {
+      "filingDate": "2024-03-13",
+      "form": "425",
+      "accessionNumber": "0001213900-24-022207",
+      "primaryDocument": "ea0201742-425_eqtcorp.htm",
+      "primaryDocDescription": "FORM 425"
+    },
+    {
+      "filingDate": "2024-03-13",
+      "form": "4",
+      "accessionNumber": "0001415889-24-007812",
+      "primaryDocument": "xslF345X05/form4-03132024_080337.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-03-13",
+      "form": "4",
+      "accessionNumber": "0001415889-24-007809",
+      "primaryDocument": "xslF345X05/form4-03132024_080329.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-03-13",
+      "form": "4",
+      "accessionNumber": "0001415889-24-007803",
+      "primaryDocument": "xslF345X05/form4-03132024_080310.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-03-13",
+      "form": "4",
+      "accessionNumber": "0001415889-24-007801",
+      "primaryDocument": "xslF345X05/form4-03132024_080328.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-03-13",
+      "form": "4",
+      "accessionNumber": "0001415889-24-007798",
+      "primaryDocument": "xslF345X05/form4-03132024_080336.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-03-12",
+      "form": "425",
+      "accessionNumber": "0001213900-24-021579",
+      "primaryDocument": "ea0201605-425_eqtcorp.htm",
+      "primaryDocDescription": "FORM 425"
+    },
+    {
+      "filingDate": "2024-03-11",
+      "form": "425",
+      "accessionNumber": "0001104659-24-033084",
+      "primaryDocument": "tm248422d4_425.htm",
+      "primaryDocDescription": "425"
+    },
+    {
+      "filingDate": "2024-03-11",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-033083",
+      "primaryDocument": "tm248422d3_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-03-11",
+      "form": "425",
+      "accessionNumber": "0001213900-24-021434",
+      "primaryDocument": "ea0201527-425_eqtcorp.htm",
+      "primaryDocDescription": "FORM 425"
+    },
+    {
+      "filingDate": "2024-03-11",
+      "form": "425",
+      "accessionNumber": "0001104659-24-032676",
+      "primaryDocument": "tm248422d2_425.htm",
+      "primaryDocDescription": "425"
+    },
+    {
+      "filingDate": "2024-03-11",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-032675",
+      "primaryDocument": "tm248422d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-03-01",
+      "form": "DEFA14A",
+      "accessionNumber": "0001104659-24-029609",
+      "primaryDocument": "tm2329632d4_defa14a.htm",
+      "primaryDocDescription": "DEFA14A"
+    },
+    {
+      "filingDate": "2024-03-01",
+      "form": "ARS",
+      "accessionNumber": "0001104659-24-029597",
+      "primaryDocument": "tm247287d2_ars.pdf",
+      "primaryDocDescription": "ARS"
+    },
+    {
+      "filingDate": "2024-03-01",
+      "form": "DEF 14A",
+      "accessionNumber": "0001104659-24-029592",
+      "primaryDocument": "tm2329632d3_def14a.htm",
+      "primaryDocDescription": "DEF 14A"
+    },
+    {
+      "filingDate": "2024-02-21",
+      "form": "4",
+      "accessionNumber": "0001415889-24-004616",
+      "primaryDocument": "xslF345X05/form4-02212024_090232.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-21",
+      "form": "4",
+      "accessionNumber": "0001415889-24-004608",
+      "primaryDocument": "xslF345X05/form4-02212024_090255.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-21",
+      "form": "4",
+      "accessionNumber": "0001415889-24-004606",
+      "primaryDocument": "xslF345X05/form4-02212024_090238.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-21",
+      "form": "4",
+      "accessionNumber": "0001415889-24-004603",
+      "primaryDocument": "xslF345X05/form4-02212024_090244.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-21",
+      "form": "4",
+      "accessionNumber": "0001415889-24-004601",
+      "primaryDocument": "xslF345X05/form4-02212024_090249.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-21",
+      "form": "4",
+      "accessionNumber": "0001415889-24-004597",
+      "primaryDocument": "xslF345X05/form4-02212024_090234.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-15",
+      "form": "4",
+      "accessionNumber": "0001415889-24-003922",
+      "primaryDocument": "xslF345X05/form4-02152024_090254.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-15",
+      "form": "4",
+      "accessionNumber": "0001415889-24-003915",
+      "primaryDocument": "xslF345X05/form4-02152024_090234.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-15",
+      "form": "4",
+      "accessionNumber": "0001415889-24-003911",
+      "primaryDocument": "xslF345X05/form4-02152024_090223.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-15",
+      "form": "4",
+      "accessionNumber": "0001415889-24-003907",
+      "primaryDocument": "xslF345X05/form4-02152024_090219.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-15",
+      "form": "4",
+      "accessionNumber": "0001415889-24-003902",
+      "primaryDocument": "xslF345X05/form4-02152024_090210.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-15",
+      "form": "4",
+      "accessionNumber": "0001415889-24-003898",
+      "primaryDocument": "xslF345X05/form4-02152024_090242.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-14",
+      "form": "4",
+      "accessionNumber": "0001415889-24-003738",
+      "primaryDocument": "xslF345X05/form4-02142024_090217.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-14",
+      "form": "4",
+      "accessionNumber": "0001415889-24-003734",
+      "primaryDocument": "xslF345X05/form4-02142024_090250.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-14",
+      "form": "4",
+      "accessionNumber": "0001415889-24-003731",
+      "primaryDocument": "xslF345X05/form4-02142024_090204.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-14",
+      "form": "4",
+      "accessionNumber": "0001415889-24-003726",
+      "primaryDocument": "xslF345X05/form4-02142024_090233.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-14",
+      "form": "10-K",
+      "accessionNumber": "0000033213-24-000008",
+      "primaryDocument": "eqt-20231231.htm",
+      "primaryDocDescription": "10-K"
+    },
+    {
+      "filingDate": "2024-02-14",
+      "form": "4",
+      "accessionNumber": "0001415889-24-003722",
+      "primaryDocument": "xslF345X05/form4-02142024_090210.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-14",
+      "form": "SC 13G",
+      "accessionNumber": "0000080255-24-000659",
+      "primaryDocument": "eqt13gdec23.txt",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-13",
+      "form": "SC 13G/A",
+      "accessionNumber": "0001104659-24-020862",
+      "primaryDocument": "tv0862-eqtcorp.htm",
+      "primaryDocDescription": "SCHEDULE 13G/A"
+    },
+    {
+      "filingDate": "2024-02-13",
+      "form": "8-K",
+      "accessionNumber": "0000033213-24-000005",
+      "primaryDocument": "eqt-20240213.htm",
+      "primaryDocDescription": "8-K"
+    },
+    {
+      "filingDate": "2024-02-09",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-012970",
+      "primaryDocument": "tm244960d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-02-09",
+      "form": "SC 13G/A",
+      "accessionNumber": "0000315066-24-001126",
+      "primaryDocument": "filing.txt",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-07",
+      "form": "4",
+      "accessionNumber": "0001415889-24-002929",
+      "primaryDocument": "xslF345X05/form4-02072024_090247.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-07",
+      "form": "4",
+      "accessionNumber": "0001415889-24-002927",
+      "primaryDocument": "xslF345X05/form4-02072024_090250.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-07",
+      "form": "4",
+      "accessionNumber": "0001415889-24-002925",
+      "primaryDocument": "xslF345X05/form4-02072024_090250.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-07",
+      "form": "4",
+      "accessionNumber": "0001415889-24-002923",
+      "primaryDocument": "xslF345X05/form4-02072024_090245.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-07",
+      "form": "4",
+      "accessionNumber": "0001415889-24-002921",
+      "primaryDocument": "xslF345X05/form4-02072024_090258.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-02-07",
+      "form": "4",
+      "accessionNumber": "0001415889-24-002917",
+      "primaryDocument": "xslF345X05/form4-02072024_090242.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-01-29",
+      "form": "SC 13G/A",
+      "accessionNumber": "0000093751-24-000304",
+      "primaryDocument": "EQT_Corp.txt",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-01-26",
+      "form": "SC 13G/A",
+      "accessionNumber": "0001086364-24-004380",
+      "primaryDocument": "us26884l1098_012624.txt",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-01-22",
+      "form": "4",
+      "accessionNumber": "0001415889-24-001630",
+      "primaryDocument": "xslF345X05/form4-01222024_090150.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-01-19",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-005210",
+      "primaryDocument": "tm243319d2_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-01-19",
+      "form": "424B5",
+      "accessionNumber": "0001104659-24-004957",
+      "primaryDocument": "tm243322-2_424b5.htm",
+      "primaryDocDescription": "424B5"
+    },
+    {
+      "filingDate": "2024-01-17",
+      "form": "FWP",
+      "accessionNumber": "0001104659-24-004541",
+      "primaryDocument": "tm243322d3_fwp.htm",
+      "primaryDocDescription": "FWP"
+    },
+    {
+      "filingDate": "2024-01-17",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-004320",
+      "primaryDocument": "tm243319d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    },
+    {
+      "filingDate": "2024-01-17",
+      "form": "424B5",
+      "accessionNumber": "0001104659-24-004317",
+      "primaryDocument": "tm243322-1_424b5.htm",
+      "primaryDocDescription": "424B5"
+    },
+    {
+      "filingDate": "2024-01-03",
+      "form": "4",
+      "accessionNumber": "0001415889-24-000275",
+      "primaryDocument": "xslF345X05/form4-01032024_090154.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-01-03",
+      "form": "4",
+      "accessionNumber": "0001415889-24-000273",
+      "primaryDocument": "xslF345X05/form4-01032024_090157.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-01-03",
+      "form": "4",
+      "accessionNumber": "0001415889-24-000271",
+      "primaryDocument": "xslF345X05/form4-01032024_090124.xml",
+      "primaryDocDescription": ""
+    },
+    {
+      "filingDate": "2024-01-02",
+      "form": "8-K",
+      "accessionNumber": "0001104659-24-000073",
+      "primaryDocument": "tm2333994d1_8k.htm",
+      "primaryDocDescription": "FORM 8-K"
+    }
+  ]
+}

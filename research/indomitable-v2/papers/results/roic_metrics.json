@@ -1,0 +1,223 @@
+{
+  "paper_metadata": {
+    "title": "ROIC and Intangible Assets: Adjusting for the Modern Economy",
+    "authors": ["Alla Maya Abidor (Credit Suisse)"],
+    "date": "2022-11-08",
+    "pages": 13,
+    "source": "Credit Suisse Research"
+  },
+  "analysis_summary": {
+    "primary_focus": "Proper calculation of ROIC incorporating intangible asset investments",
+    "key_insight": "Traditional GAAP ROIC understates returns for intangible-intensive companies",
+    "recommendation": "Capitalize and amortize strategic intangible investments for accurate ROIC"
+  },
+  "key_metrics": [
+    {
+      "metric_name": "Adjusted Return on Invested Capital",
+      "canonical_name": "adjusted_roic",
+      "category": "profitability",
+      "formula": "NOPAT / Average Invested Capital (including capitalized intangibles)",
+      "formula_components": [
+        {
+          "name": "NOPAT",
+          "source": "10-K Item 7 - Operating Income less adjusted taxes",
+          "adjustments": "Add back intangible amortization expense; adjust taxes accordingly"
+        },
+        {
+          "name": "Invested Capital",
+          "source": "10-K Balance Sheet - Total Assets less Non-Interest Bearing Current Liabilities",
+          "adjustments": "Add capitalized intangible assets (R&D, advertising, training)"
+        }
+      ],
+      "data_sources": ["10-K", "10-Q", "Proxy Statement"],
+      "frequency": "quarterly",
+      "benchmarks": {
+        "type": "relative",
+        "threshold": "ROIC > WACC by at least 200-300 basis points for value creation",
+        "peer_comparison": "Compare within industry; intangible-heavy sectors show wider spreads"
+      },
+      "notes": "Most relevant for technology, pharma, and consumer brands with significant intangible investments"
+    },
+    {
+      "metric_name": "Capitalized Intangible Assets",
+      "canonical_name": "capitalized_intangibles",
+      "category": "capital_allocation",
+      "formula": "Sum of capitalized R&D + capitalized advertising + capitalized training/other",
+      "formula_components": [
+        {
+          "name": "Capitalized R&D",
+          "source": "10-K Item 7 - Research and Development expenses",
+          "adjustments": "Capitalize R&D over amortization period (typically 3-7 years depending on industry)"
+        },
+        {
+          "name": "Capitalized Advertising",
+          "source": "10-K - SG&A breakdown if available, or estimate from industry norms",
+          "adjustments": "Capitalize brand-building advertising over 1-3 years"
+        },
+        {
+          "name": "Capitalized Training",
+          "source": "Often not separately disclosed; may need estimation",
+          "adjustments": "Capitalize over expected employee tenure (typically 2-4 years)"
+        }
+      ],
+      "data_sources": ["10-K", "10-Q", "Earnings Call Transcripts"],
+      "frequency": "annual",
+      "benchmarks": {
+        "type": "absolute",
+        "threshold": "Compare capitalized amount to market cap; >20% suggests significant adjustment needed"
+      },
+      "notes": "Data quality varies significantly by company disclosure practices"
+    },
+    {
+      "metric_name": "Intangible Asset Intensity Ratio",
+      "canonical_name": "intangible_intensity_ratio",
+      "category": "valuation",
+      "formula": "Capitalized Intangibles / Total Assets",
+      "formula_components": [
+        {
+          "name": "Capitalized Intangibles",
+          "source": "Calculated from above",
+          "adjustments": "N/A"
+        },
+        {
+          "name": "Total Assets",
+          "source": "10-K Balance Sheet",
+          "adjustments": "Use reported GAAP total assets"
+        }
+      ],
+      "data_sources": ["10-K"],
+      "frequency": "annual",
+      "benchmarks": {
+        "type": "absolute",
+        "threshold": ">0.30 indicates high intangible intensity requiring adjustments"
+      },
+      "notes": "Use to identify companies where traditional metrics are most misleading"
+    },
+    {
+      "metric_name": "Adjusted Invested Capital Turnover",
+      "canonical_name": "adjusted_invested_capital_turnover",
+      "category": "efficiency",
+      "formula": "Revenue / Average Adjusted Invested Capital",
+      "formula_components": [
+        {
+          "name": "Revenue",
+          "source": "10-K Income Statement",
+          "adjustments": "Use reported revenue"
+        },
+        {
+          "name": "Adjusted Invested Capital",
+          "source": "Calculated per above",
+          "adjustments": "Include capitalized intangibles"
+        }
+      ],
+      "data_sources": ["10-K", "10-Q"],
+      "frequency": "quarterly",
+      "benchmarks": {
+        "type": "relative",
+        "threshold": "Compare to unadjusted turnover; significant divergence indicates adjustment importance"
+      },
+      "notes": "Intangible-intensive firms show lower turnover but higher margins"
+    }
+  ],
+  "intangible_asset_adjustments": {
+    "treatment_method": "Capitalize and amortize strategic intangible investments rather than expensing immediately",
+    "rationale": "GAAP expenses intangibles immediately while they provide multi-year benefits, distorting profitability and capital measures",
+    "components": [
+      {
+        "type": "Research & Development",
+        "capitalization_period": "3-7 years",
+        "amortization_method": "Straight-line over useful life",
+        "industry_variations": {
+          "pharma": "7-10 years (long development cycles)",
+          "software": "3-5 years (shorter product cycles)",
+          "hardware": "5-7 years"
+        },
+        "data_source": "10-K Item 7 - R&D expense line item"
+      },
+      {
+        "type": "Advertising & Marketing",
+        "capitalization_period": "1-3 years",
+        "amortization_method": "Straight-line",
+        "industry_variations": {
+          "consumer_brands": "3-5 years (brand building)",
+          "retail": "1-2 years (promotional)",
+          "b2b": "Expense immediately (transactional)"
+        },
+        "data_source": "Often combined in SG&A; may need estimation from disclosures"
+      },
+      {
+        "type": "Training & Development",
+        "capitalization_period": "2-4 years",
+        "amortization_method": "Straight-line over expected employee tenure",
+        "data_source": "Rarely disclosed separately; industry benchmarks or estimates"
+      },
+      {
+        "type": "Strategic Investments",
+        "capitalization_period": "Variable",
+        "amortization_method": "Based on expected benefit period",
+        "examples": ["Platform development", "Customer acquisition with long LTV"],
+        "data_source": "Management discussion in 10-K/earnings calls"
+      }
+    ],
+    "tax_adjustments": {
+      "description": "Adjust tax rate for amortization of capitalized intangibles",
+      "method": "Recalculate taxes as if intangibles were capitalized and amortized",
+      "impact": "Increases NOPAT for growing companies (deductions deferred to future)"
+    }
+  },
+  "calculation_procedures": {
+    "step_1": "Identify all intangible investments from 10-K Item 7 (MD&A) and financial statements",
+    "step_2": "Determine appropriate capitalization period based on industry norms and company specifics",
+    "step_3": "Build schedule of historical intangible investments (minimum 7-10 years for pharma, 3-5 for tech)",
+    "step_4": "Calculate annual amortization of capitalized intangibles",
+    "step_5": "Adjust NOPAT: Add back current period intangible expenses, subtract amortization of prior period capitalized amounts",
+    "step_6": "Adjust Invested Capital: Add net capitalized intangible assets (gross capitalized less accumulated amortization)",
+    "step_7": "Calculate Adjusted ROIC using adjusted NOPAT and adjusted Invested Capital",
+    "step_8": "Compare to unadjusted ROIC and WACC to assess value creation"
+  },
+  "data_quality_warnings": [
+    "Not all companies disclose R&D separately; may be combined in operating expenses",
+    "Advertising breakdown between brand-building and promotional rarely disclosed",
+    "Training expenses almost never separately reported",
+    "Management may change disclosure practices year-to-year",
+    "International companies may capitalize certain intangibles under IFRS but not under GAAP",
+    "Acquired intangibles are capitalized (goodwill, patents) but internally developed are not - creates comparability issues"
+  ],
+  "common_pitfalls": [
+    "Using same capitalization period across all industries (should vary by development cycle)",
+    "Double-counting: Ensure amortization of capitalized amounts is included in invested capital",
+    "Tax adjustment errors: Must recalculate taxes based on amortization, not just add back expenses",
+    "Ignoring negative invested capital: Some companies show negative adjusted invested capital (more liabilities than adjusted assets); interpret carefully",
+    "Failing to update schedules: Must maintain rolling history of intangible investments",
+    "Comparing adjusted ROIC to unadjusted peer ROIC: Ensure consistent methodology across comparison set"
+  ],
+  "recommended_comparisons": {
+    "temporal": "Compare adjusted ROIC trends over 5-10 years to identify true performance trajectory",
+    "cross_sectional": "Compare within industry, adjusting all peers using same methodology",
+    "to_wacc": "Calculate ROIC-WACC spread; sustainable value creation requires spread > 200bps",
+    "to_gaap": "Compare adjusted vs GAAP ROIC; divergence indicates adjustment importance"
+  },
+  "implementation_priority": {
+    "tier_1": ["R&D capitalization for tech/pharma", "Basic NOPAT adjustments"],
+    "tier_2": ["Advertising capitalization for consumer brands", "Tax rate adjustments"],
+    "tier_3": ["Training capitalization", "Strategic investment tracking"]
+  },
+  "data_model_implications": {
+    "new_tables": [
+      {
+        "table": "intangible_investments",
+        "fields": ["company_id", "year", "investment_type", "amount", "capitalization_period", "amortization_schedule"]
+      },
+      {
+        "table": "adjusted_financials",
+        "fields": ["company_id", "period", "adjusted_nopat", "adjusted_invested_capital", "adjustment_details"]
+      }
+    ],
+    "modified_tables": [
+      {
+        "table": "metrics",
+        "new_fields": ["adjusted_roic", "intangible_intensity_ratio", "adjustment_methodology_version"]
+      }
+    ]
+  }
+}

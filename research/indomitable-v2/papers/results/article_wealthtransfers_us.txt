@@ -1,0 +1,427 @@
+
+--- Page 1 ---
+ 
+ 
+   
+ 
+Counterpoint Global Insights  
+Wealth Transfers  
+Redistribution of Value via Capital Allocation  
+ 
+CONSILIENT OBSERVER   |  May 10 , 2022
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Introduction  
+The core of capitalism is the private ownership of the means of 
+production in the pursuit of economic profit. A company generates 
+a positive economic profit when it earns a return on investment in 
+excess of the opportunity cost of capital.  
+Competition is a feature of capitalism. A company earning a 
+handsome economic profit will attract competitors that seek to 
+wrest that profit away either by selling similar goods or services at 
+a lower cost or by providing attractive substitute offerings.  
+Productive investment is the engine of capitalism. Companies 
+spend on tangible or intangible assets with the expectation that 
+future cash flows, discounted to the present, will be worth more 
+than the outlay. Successful investment creates wealth because 
+one dollar of investment is worth more than one dollar in value.  
+Creditors and equity holders  provide the capital to invest. Creditors 
+have a senior claim on cash flows and hence have lower risk and 
+expected return than equity holders. Equity holders have a r esidual 
+claim on cash flows, so they have higher risk and potential reward. 
+Once a company is up and running, the primary source of 
+investment capital tends to be cash that is generated internally. 
+Since 1980, internal financing has supplied more than 90 p ercent 
+of the capital for investment in the U.S.1 This can come from 
+retained earnings or other stakeholders, including suppliers.2 
+Capital allocation is arguably a management team’s most 
+important task. The goal of capital allocation is to put resources t o 
+their best and highest use so as to create long -term value per share 
+for ongoing shareholders. You can think of capital allocation in two 
+parts. One is investing in the business, which includes familiar  
+forms such as capital expenditures, intangible asse ts, and mergers 
+and acquisitions.  
+The other is transacting with securities that have prices that are 
+based on corporate value , including buying and selling the debt and 
+equity of a company. This introduces  the potential for a wealth 
+transfer, where one sta keholder benefits at the expense of another.  
+ 
+  
+AUTHORS  
+ 
+Michael J. Mauboussin  
+michael.mauboussin@morganstanley.com  
+ 
+Dan Callahan , CFA  
+dan.callahan1@morganstanley.com  
+--- Page 2 ---
+  
+ 
+ 
+© 2022 Morgan Stanley.  All rights reserved.  4718440 Exp. 5/31/2023  2 
+ 
+Wealth Transfers  
+A wealth transfer occurs when a company buys or sells a mispriced securit y.3 We focus on equity. The intuition 
+is straightforward and amounts to little more than “buy low and sell high.” The essential issue is whether 
+executives can discern between price a nd value. In theory, they should have information about the prospects 
+for their companies that investors lack . This can provid e an opportunity to initiate a wealth transfer.  
+The empirical research on the topic comes to a few conclusions . First, companies can indeed time the sale and 
+purchase of equity so as to benefit ongoing shareholders.4 Second, wealth transfers tend to be larger for sales 
+of overpriced equity than they are  for purchases of undervalued equity .5 Third, institutional investors are 
+generally more discerning than individual investors when transact ing with a company.6 
+Richard Sloan and Haifeng You, professors of accounting, find that companies buying and selling equity transfer 
+one to two percent of the pre -deal market value from the transacting shareholders to the ongoing shareholders, 
+measured five years after the event.7 
+An important implication of these transfers is that a stock’s dollar -weighted average retur n can be less than its 
+time-weighted return . Total shareholder returns are generally  reported using time -weighted returns. This concept 
+is related to the observation that mutual fund investors generally earn lower returns than the funds in which they 
+inves t because of poor timing. For example, the dollar -weighted returns were 117 basis points lower than time -
+weighted returns for U.S. equity mutual funds for the 10 years ended December 31, 2020.8 
+Ilia Dichev, a professor of accounting, provides an example to make the point clear (we modify his numbers 
+modestly).9 A company starts with 1,000 shares of a stock that trades at $100 a share. The stock then doubles 
+to $200 and the company sells 1,000 shares. Finally, the stock returns to $100.  
+It is obvio us that the initial shareholders are flat on their investment and the new shareholders are down 50 
+percent. In fact, in this scenario the dollar -weighted return is -26.8 percent, measured using internal  rate of return 
+(IRR). But the time -weighted return is  zero because the stock ended where it began.  
+This analysis is based on price change, which is what investors ultimately care about. Wealth transfers rely on 
+a stock being mispriced, which presumes that price differs from intrinsic value. When we introduce  value, we 
+can observe that selling overvalued stock and buying back undervalued stock add to firm value per share. 
+Symmetrically, buying back overvalued stock and selling undervalued stock subtract from firm value per share 
+(see exhibit 1).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- Page 3 ---
+  
+ 
+ 
+© 2022 Morgan Stanley.  All rights reserved.  4718440 Exp. 5/31/2023  3 
+ 
+Exhibi t 1: Wealth Transfers Via Equity Transactions  
+ 
+Source: Counterpoint Global.  
+Let’s return to our example. Say the intrinsic value of the firm at the outset is $100,000 and that the price  
+accurately reflects that value  ($100 per share x 1,000 shares outstan ding = $100,000) . The stock rises to $200, 
+and the firm sells 1,000 shares. The new value of the firm is $300,000 ($300,000 = $100,000 + $200,000 in 
+proceeds) and the value per share rises from $100 to $150 per share ($150 = $300,000 ÷ 2,000 shares 
+outstan ding). The wealth transfer is from the buying shareholders to ongoing holders, which becomes clear if 
+the stock price declines to $150 and matches its new value per share. Buying shareholders lose $50 per share 
+while the ongoing holders gain $50. Note that  the price regresses to a higher value.  
+We can start with the same intrinsic value and price and see what happens if the company buys back 
+undervalued stock. Now assume the stock drops from $100 to $50 and the company repurchases 500 shares. 
+The value of t he firm decreases to $75,000 ($75,000 = $100,000 - $25,000  repurchase cost ) but the value per 
+share increases to $150 per share ($150 = $75,000 ÷ 500 shares outstanding). The wealth transfer is from the 
+selling shareholders to the ongoing holders if price and the new value align. Selling shareholders lose $50 per 
+share and ongoing holders gain $50.  
+A company that sells overvalued stock increases the value per share for the ongoing holders . But it should be 
+noted that those holders would be better off sellin g alongside the firm. A company that buys undervalued stock 
+also augments value per share. But in this case, ongoing shareholders improve their situation by doing nothing.  
+This analysis is relevant for stocks that gain attention through social media and ap peal primarily to retail 
+investors. These are colloquially called “meme stocks” because the individuals who buy them commonly react 
+to ideas developed and spread on the Internet.10 Consider that the net daily purchases of U.S equities and 
+exchange -traded funds by individuals at the height of popularity for meme stocks was roughly 10 times the level 
+of purchases in 2019 before major online brokerage firms moved to  zero commissions.11 
+The large price changes of these stocks suggest mispricing. These stock price spikes present an opportunity for 
+a wealth transfer via corporate action.  
+Stock Price
+Undervalued Overvalued
+Company
+BuysSells•Buyers gain
+•Ongoing holders lose•Buyers lose
+•Ongoing holders gain
+•Sellers lose
+•Ongoing holders gain•Sellers gain
+•Ongoing holders lose
+--- Page 4 ---
+  
+ 
+ 
+© 2022 Morgan Stanley.  All rights reserved.  4718440 Exp. 5/31/2023  4 
+ 
+We designated value in our example so as to illustrate the point. But in reality, determining intrinsic  value is 
+much more difficult. To simplify our analysis, we use the average target price of the sell -side analysts who cover 
+a stock as a proxy for intrinsic value. As is generally known, target prices are not very accurate and tend to be 
+optimistic. This means that realized prices tend to fall short of the target.12 The math of wealth transfers still 
+works, but the magnitude of the effect is muted if the target price is higher than the intrinsic value.  
+The recent case of GameStop, a retailer of video games  and consumer electronics, is an example of equity 
+issuance executed at a price that substantially exceeded value as implied by the target price of analysts. On 
+April 9, 2021, GameStop had 65.3 million shares outstanding and the stock closed at $158.36. Be tween June 9 
+and June 22, GameStop sold 5 million shares at an average price of $225.20 per share. During the time of the 
+sale, the average target price was $65.48.  
+The intrinsic value increased from $65.48 to $76.84 per share, a gain of more than 17 perc ent, as a result of the 
+issuance.13 On August 11, 2021, the stock closed at $158.78. Measuring stock price returns from roughly two 
+months before the issuance  to two months after reveals a n IRR of -1.4 percent  but a time -weighted gain of 0.3 
+percent.  
+Anoth er noteworthy aspect of the transaction is that the company added more than $1.1 billion to its balance 
+sheet. This introduces a capital allocation opportunity and risk. The capital creates additional wealth if it is 
+deployed into the operations and earns a return in excess of the cost of capital. But an investment below the 
+cost of capital is a drag on the value of the operations.14 
+AMC Entertainment Holdings, a movie theater chain, is another company with equity that qualified as a meme 
+stock. The company  sold stock in a similar fashion. Indeed, its actions had an even larger impact on intrinsic 
+value than was the case for GameStop. AMC chose to deploy some of its cash into a gold mine company, 
+Hycroft Mining, hence diversifying away from its core operatio ns.15 
+Conclusion  
+Companies can affect wealth in a couple of ways. First, they can make investments in their operations that earn 
+in excess of the cost of capital. This activity benefits capital providers. But sustaining returns above the cost of 
+capital is  challenging because of competition and the inevitable maturation of various markets for goods or 
+services.  
+Companies can also transfer wealth by buying or selling mispriced stock. The evidence shows that in the 
+aggregate companies do sell high and buy low, which means that transacting shareholders fare worse than 
+ongoing holders.  
+Astute investors focus on a management’s ability to allocate capital and tend to focus on investments in the 
+business. This is appropriate. But investors should also be aware o f the impact of management actions with 
+regard to their own stock. The essential guide is the gap between price and value.  
+Finally, many investors count on mispriced stocks regressing toward  their value per share over time as a means 
+to generate excess ret urns. Wealth transfers show that actions by management can change the value per share 
+without any change in the underlying fundamentals of the operations.  
+ 
+Please see I mportant Disclosures on pages 7-9  
+--- Page 5 ---
+  
+ 
+ 
+© 2022 Morgan Stanley.  All rights reserved.  4718440 Exp. 5/31/2023  5 
+ 
+Endnotes  
+1 Board of Governors of the Federal Reserve System, Division of Research and Statistics, Flow of Funds 
+Accounts Table F. 103. See https://www.federalreserve.gov/releases/z1/20220310/z1.pdf, page  18. 
+2 This can be seen through analysis of the cash conversion cycle, a measure of how long it takes to co nvert 
+investments in inventory into cash. Companies with a negative cash conversion cycle receive cash for the goods 
+or services they produce before they have to pay their suppliers. This timing difference is a source of cash as 
+long as the business grows.  
+3 Wealth transfers can happen by other means as well. One of the best examples is captured in the principal -
+agent problem. In this case, the principal is the shareholder and the agent is the manager of the business. The 
+problem arises when the agent enric hes his or herself, for instance through unnecessary perquisites, that 
+transfer wealth from the principal to the agent. Other potential but more ambiguous cases include leveraged 
+recapitalizations, where companies borrow money to repurchase stock, and spin offs. 
+4 Amy Dittmar and Laura Casares Field, “Can Managers Time the Market? Evidence Using Repurchase Price 
+Data,” Journal of Financial Economics , Vol. 115, No. 2, February 2015, 261 -282; Richard G. Sloan and Haifeng 
+You, “Wealth Transfers via Equity Transfers,” Journal of Financial Economics, Vol. 118, No. 1, October 2015, 
+93-112; Ilona Babenko, Yuri Tserlukevich, and Pengcheng Wan, “Is Market Timing Good for Shareholders?” 
+Management Scie nce, Vol. 66, No. 8, August 2020, 3542 -3560; and Dinis Daniel Santos and Paulo Gama, 
+“Timing the Market with Own Stock: An Extensive Analysis with Buying and Selling Evidence,” International 
+Journal of Managerial Finance, Vol. 16, No. 2, 2020, 141 -164. 
+5 A related finding is that “IPO firms underperform the market for the three and five years after the IPO.” From 
+Michelle Lowry, Roni Michaely, and Ekaterina Volkova, “Initial Public Offerings: A Synthesis of the Literature and 
+Directions for Future Research, ” Foundations and Trends in Finance , Vol. 11, No. 3 -4, 2017, 154 -320. 
+6 R. Jared DeLisle, Justin D. Morscheck, and John R. Nofsinger, “Share Repurchases and Wealth Transfer 
+Among Shareholders,” Quarterly Review of Economics and Finance , Vol. 76, May 2020, 368-378; Randolph B. 
+Cohen, Paul A. Gompers, and Tuomo Vuolteenaho, “Who Underreacts to Cash -Flow News? Evidence from 
+Trading between Individuals and Institutions,” Journal of Financial Economics , Vol. 66, Nos. 2 -3, November -
+December 2002, 409 -462; and Joh n R. Nofsinger and Richard W. Sias, “Herding and Feedback Trading by 
+Institutional and Individual Investors,” Journal of Finance  , Vol. 54, No. 6, December 1999, 2263 -2295.  
+7 Sloan and You, “Wealth Transfers via Equity Transfers” and Ulrike Malmendier, “Be havioral Corporate 
+Finance,” in B. Douglas Bernheim, Stefano Della Vigna, and David Laibson, eds., Handbook of Behavioral 
+Economics —Foundations and Applications  1 (Amsterdam: North Holland, 2018), 277 -380. 
+8 Amy C. Arnott, “Mind the Gap 2021: A Report on I nvestor Returns in the United States,” Morningstar , August 
+31, 2021.  
+9 Ilia D. Dichev, “What Are Stock Investors’ Actual Historical Returns? Evidence from Dollar -Weighted Returns,” 
+American Economic Review , Vol. 97, No. 1, March 2007, 386 -401. 
+10 The Merri am-Webster dictionary defines a meme as “an idea, behavior, style, or usage that spreads from 
+person to person within a culture.”  
+11 Spencer Jakab, The Revolution That Wasn't: GameStop, Reddit, and the Fleecing of Small Investors  (New 
+York: Portfolio/Pengu in, 2022), 139.  
+12 Stefano Bonini, Laura Zanetti, Roberto Bianchini, and Antonio Salvi, “Target Price Accuracy in Equity 
+Research,” Journal of Business Finance & Accounting , Vol. 37, Nos. 9 and 10, November/December 2010, 
+1177 -1217; Mark T. Bradshaw, Lawr ence D. Brown, and Kelly Huang, “Do Sell -side Analysts Exhibit Differential 
+Target Price Forecasting Ability?” Review of Accounting Studies , Vol. 18, No. 4, December 2013, 930 -955; and 
+Mark T. Bradshaw, “The Use of Target Prices to Justify Sell -Side Analys ts’ Stock Recommendations,” 
+Accounting Horizons , Vol. 16, No. 1, March 2002, 27 -41. Target prices can be improved through the use of 
+distributions. See Guy Weyns, Juan -Luis Perez, Barry Hurewitz, and Vlad Jenkins, “Morgan Stanley’s Risk -
+Reward Views: Unloc king the Full Potential of Fundamental Analysis,” Journal of Applied Corporate Finance , 
+Vol. 23, No. 2, Spring 2011, 59 -68; Patricia M. Dechow and Haifeng You, “Understanding the Determinants of 
+Analyst Target Price Implied Returns,” Accounting Review , Vol. 95, No. 6, November 2020, 125 -149. 
+13 Here’s the math. The company’s implied intrinsic value before the transaction was $4,276 million, or 65.3 
+million shares times $65.48 per share. The company sold stock worth $1,126 million, the product of 5 million 
+--- Page 6 ---
+  
+ 
+ 
+© 2022 Morgan Stanley.  All rights reserved.  4718440 Exp. 5/31/2023  6 
+ 
+shares and a price of $225.20. The new value of the firm is $5,402 million, or $4,276 plus $1,126 million, which 
+divided by the new shares outstanding of 70.3 million (65.3 + 5.0 million) equals $76.84 per share.  
+14 “Investment” is one of the factors (othe rs include size, value, momentum, and quality) in a number of prominent 
+factor models that seek to explain equity returns beyond the output of the capital asset pricing model. The 
+common way to measure investment is the growth in assets, and the general co nclusion is that rapid asset 
+growth is associated with poor subsequent total shareholder returns. More recent  work parses asset growth into 
+investment and non -investment components. Rapid asset growth as the result of investment growth does not 
+predict poo r returns. By contrast, rapid asset growth as the result of equity issuance but without investment 
+does. See Michael Cooper, Huseyin Gulen, and Mihai Ion, “The Use of Asset Growth in Empirical Asset Pricing 
+Models,” Working Paper , August 2020.  
+15 Alexander  Gladstone and Caitlin McCabe, “A New Meme -Stock Frenzy Led AMC to Gold Mine Stake,” Wall 
+Street Journal , March 15, 2022.  
+ 
+ 
+ 
+--- Page 7 ---
+  
+ 
+ 
+© 2022 Morgan Stanley.  All rights reserved.  4718440 Exp. 5/31/2023  7 
+ 
+IMPORTANT INFORMATION  
+ 
+The views and opinions and/or analysis expressed  are those of the author as of the date of preparation of this 
+material and are subject to change at any time due to market or economic conditions and may not necessarily 
+come to pass. Furthermore, the views will not be updated or otherwise revised to refle ct information that 
+subsequently becomes available or circumstances existing, or changes occurring, after the date of publication. 
+The views expressed do not reflect the opinions of all investment personnel at Morgan Stanley Investment 
+Management (MSIM) an d its subsidiaries and affiliates (collectively “the Firm”),  and may not be reflected in all 
+the strategies and products that the Firm offers.  
+ 
+Forecasts and/or estimates provided herein are subject to change and may not actually come to pass. 
+Information  regarding expected market returns and market outlooks is based on the research, analysis and 
+opinions of the authors or the investment team. These conclusions are speculative in nature, may not come to 
+pass and are not intended to predict the future perfo rmance of any specific strategy or product the Firm offers. 
+Future results may differ significantly depending on factors such as changes in securities or financial markets or 
+general economic conditions.  
+ 
+Past performance is no guarantee of future results.  This material has been prepared on the basis of publicly 
+available information, internally developed data and other third -party sources believed to be reliable. However, 
+no assurances are provided regarding the reliability of such information and the Firm  has not sought to 
+independently verify information taken from public and third -party sources.  The views expressed in the books 
+and articles referenced in this whitepaper are not necessarily endorsed by the Firm . 
+ 
+This material  is a general communications which is not impartial and has been prepared solely for information 
+and educational purposes and does not constitute an offer or a recommendation to buy or sell any particular 
+security or to adopt any specific investment strategy. The material contained he rein has not been based on a 
+consideration of any individual client circumstances and is not investment advice, nor should it be construed in 
+any way as tax, accounting, legal or regulatory advice. To that end, investors should seek independent legal 
+and f inancial advice, including advice as to tax consequences, before making any investment decision.  
+ 
+Charts and graphs provided herein are for illustrative purposes only. Any securities referenced herein are solely 
+for illustrative purposes only and should no t be construed as a recommendation for investment.  
+ 
+This material is not a product of Morgan Stanley’s Research Department and should not be regarded as a 
+research material or a recommendation.  
+ 
+The Firm has not authorised financial intermediaries to use and to distribute this material , unless such use and 
+distribution is made in accordance with applicable law and regulation. Additionally, financial intermediaries are 
+required to satisfy themselves that the information in this material is appropriate for any person to whom they 
+provide this material in view of that person’s circumstances and purpose. The Firm  shall not be liable for, and 
+accepts no liability for, the use or misuse of this material by any such financial intermediary.  
+ 
+The whole or any part of this work may not be directly or indirectly reproduced, copied, modified, used to create 
+a derivative work, performed, displayed, published, posted, licensed, framed, distributed or transmitted or any 
+of its contents disclosed to thi rd parties without MSIM’s express written consent. This work may not be linked to 
+unless such hyperlink is for personal and non -commercial use. All information contained herein is proprietary 
+and is protected under copyright and other applicable law.  
+ 
+Eaton Vance is part of Morgan Stanley Investment Management. Morgan Stanley Investment Management is 
+the asset management division of Morgan Stanley.  
+ 
+This material  may be translated into other languages. Where such a translation is made this English version 
+remains definitive. If there are any discrepancies between the English version and any version of this material  
+in another language, the English version shall prevail.  
+ 
+ 
+ 
+--- Page 8 ---
+  
+ 
+ 
+© 2022 Morgan Stanley.  All rights reserved.  4718440 Exp. 5/31/2023  8 
+ 
+DISTRIBUTION  
+ 
+This communication is only intended for and will only be distributed to persons resident in jurisdictions 
+where such distribution or availability would not be contrary to local laws or regulations.  
+ 
+MSIM, the asset management division of Morgan Stanley (NYSE: MS), and its affiliates have 
+arrangements in place to  market each other’s products and services.   Each MSIM affiliate is regulated 
+as appropriate in the jurisdiction it operates.  MSIM’s affiliates are:  Eaton Vance Management 
+(International) Limited, Eaton Vance Advisers International Ltd, Calvert Research an d Management, 
+Eaton Vance Management, Parametric Portfolio Associates LLC, and Atlanta Capital Management LLC.  
+ 
+This material has been issued by any one or more of the following entities:  
+ 
+EMEA:  
+This material is for Professional Clients/Accredited Invest ors only.  
+ 
+In the EU, MSIM and Eaton Vance materials are issued by MSIM Fund Management (Ireland) Limited (“FMIL”). 
+FMIL is regulated by the Central Bank of Ireland and is incorporated in Ireland as a private company limited by 
+shares with company registr ation number 616661 and has its registered address at The Observatory, 7 -11 Sir 
+John Rogerson's Quay, Dublin 2, D02 VC42, Ireland.  
+ 
+Outside the EU, MSIM materials are issued by Morgan Stanley Investment Management Limited (MSIM Ltd) is 
+authorised and regu lated by the Financial Conduct Authority. Registered in England. Registered No. 1981121. 
+Registered Ofﬁce: 25 Cabot Square, Canary Wharf, London E14 4QA.  
+ 
+In Switzerland, MSIM materials are issued by Morgan Stanley & Co. International plc, London (Zurich Branch) 
+Authorised and regulated by the Eidgenössische Finanzmarktaufsicht ("FINMA"). Registered Office: 
+Beethovenstrasse 33, 8002 Zurich, Switzerland.  
+ 
+Outside the US and EU, Eaton Vance materials are issued by Eaton Vance Management (International) Limi ted 
+(“EVMI”) 125 Old Broad Street, London, EC2N 1AR, UK, which is authorised and regulated in the United 
+Kingdom by the Financial Conduct Authority.   
+ 
+Italy:  MSIM FMIL (Milan Branch), (Sede Secondaria di Milano) Palazzo Serbelloni Corso Venezia, 16 20121 
+Milano, Italy. The Netherlands: MSIM FMIL (Amsterdam Branch), Rembrandt Tower, 11th Floor Amstelplein 1 
+1096HA, Netherlands. France:  MSIM FMIL (Paris Branch), 61 rue de Monceau 75008 Paris, France. Spain: 
+MSIM FMIL (Madrid Branch), Calle Serrano 55, 28006, Madrid, Spain.   
+ 
+MIDDLE EAST:  
+Dubai : MSIM Ltd (Representative Office, Unit Precinct 3 -7th Floor -Unit 701 and 702, Level 7, Gate Precinct 
+Building 3, Dubai International Financial Centre, Dubai, 506501, U nited Arab Emirates. Telephone: +97 (0)14 
+709 7158).  
+ 
+U.S.:   
+NOT FDIC INSURED | OFFER NO BANK GUARANTEE | MAY LOSE VALUE | NOT INSURED BY ANY 
+FEDERAL GOVERNMENT AGENCY | NOT A BANK DEPOSIT  
+ 
+Hong Kong: This material is disseminated by Morgan Stanley Asia Limited for use in Hong Kong and shall only 
+be made available to “professional investors” as defined under the Securities and Futures Ordinance of Hong 
+Kong (Cap 571). The contents of this material have not been reviewed nor approved by any regulatory  authority 
+including the Securities and Futures Commission in Hong Kong. Accordingly, save where an exemption is 
+available under the relevant law, this material shall not be issued, circulated, distributed, directed at, or made 
+available to, the public in Hong Kong.  Singapore: This material is disseminated by Morgan Stanley Investment 
+Management Company and  may not be circulated or distributed, whether directly or indirectly, to persons in 
+Singapore other than to (i ) an accredited investor (ii) an expert investor or (iii) an institutional investor as defined 
+in Section 4A of the Securities and Futures Act, Chapter 289 of Singapore (“SFA”); or (iv) otherwise pursuant 
+to, and in accordance with the conditions of, any o ther applicable provision of the SFA. This publication has not 
+--- Page 9 ---
+  
+ 
+ 
+© 2022 Morgan Stanley.  All rights reserved.  4718440 Exp. 5/31/2023  9 
+ 
+been reviewed by the Monetary Authority of Singapore.    Australia: This material  is disseminated in Australia 
+by Morgan Stanley Investment Management (Australia) Pty Limited  ACN: 122040037, AFS L No. 314182, which 
+accept responsibility for its contents. This publication, and any access to it, is intended only for “wholesale clients” 
+within the meaning of the Australian Corporations Act.  Calvert Research and Management, ARBN 635 157 434  
+is regula ted by the U.S. Securities and Exchange Commission under U.S. laws which differ from Australian laws. 
+Calvert Research and Management is exempt from the requirement to hold an Australian financial services 
+licence in accordance with class order 03/1100 in respect of the provision of financial services to wholesale 
+clients in Australia.  
+ 
+Japan: This material  may not be circulated or distributed, whether directly or indirectly, to persons in Japan 
+other than to (i) a professional investor as defined in Articl e 2 of the Financial Instruments and Exchange Act 
+(“FIEA”) or (ii) otherwise pursuant to, and in accordance with the conditions of, any other allocable provision of 
+the FIEA. This material  is disseminated in Japan by Morgan Stanley Investment Management (J apan) Co., Ltd., 
+Registered No. 410 (Director of Kanto Local Finance Bureau (Financial Instruments Firms)), Membership: the 
+Japan Securities Dealers Association, The Investment Trusts Association, Japan, the Japan Investment 
+Advisers Association and the Ty pe II Financial Instruments Firms Association.  

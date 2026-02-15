@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# OpenClaw runtime
+.openclaw/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Large files that shouldn't be in git
+*.pdf
+*.zip
+*.tar.gz
+
+# T4 symlink (external drive - don't commit contents)
+# Note: The T4 symlink itself can be committed, but not its contents
